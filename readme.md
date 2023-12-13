@@ -5,7 +5,7 @@
 ## Déroulement du jeu
 
 
-Ce jeu se base sur le simplicime et mondialement connu "Space Invaders".
+Ce jeu se base sur le simplicime et mondialement connu "Space Invader".
 
 On déplace un vaisseau (ici un carré bleu turquoise).
 
